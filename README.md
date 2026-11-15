@@ -80,12 +80,37 @@ Enable intelligent experiences across MasCamp™ platforms and services, creatin
 - Began evaluating how artificial intelligence could improve access to organizational knowledge.
 - Identified opportunities to improve information discovery, contextual understanding, and the quality of AI-generated responses.
 
-**November 2026 — Expanding Public Intelligence**
+**November 13, 2026: Public Carnival Q&A launched**
 
-- Advanced development of MasCamp.AI's public-facing intelligence experience.
-- Expanded the initiative's focus on Carnival education, knowledge discovery, and access to relevant resources.
-- Continued development toward connecting organizational intelligence with public-facing experiences.
-- Established additional priorities for improving the accessibility, relevance, and reliability of information across the MasCamp™ ecosystem.
+- Launched public Carnival question-and-answer at [mascamp.ai](https://mascamp.ai/): mas bands, costumes, registration, events, music, suppliers, workshops and Carnival business.
+- Carnival-only by design: unrelated questions are politely redirected, and follow-up questions keep their context.
+- Answers draw first on knowledge reviewed by the MasCamp team, and every answer is saved and reused.
+- Introduced a free daily question for every visitor, with feedback on every answer.
+
+**November 13–15, 2026: Team Intelligence Console**
+
+- Introduced a private console for the MasCamp team to review questions, answers and feedback.
+- Added a curated Carnival knowledge base, a Carnival dictionary, and profiles of people, mas bands, events, places and organizations, connected through links, tags and categories.
+- Added versioned rules and content, so every change is recorded and can be restored.
+- Established a human-review principle: AI-written facts are never published as verified until the team approves them.
+
+**November 14, 2026: Learning From Every Question**
+
+- Questions are automatically sorted into Carnival categories and grouped by intent.
+- AI-assisted suggestions for new keywords, topics, words and profiles, each reviewed by a person before use.
+- Public web research for Carnival names not yet in the knowledge base, saved with sources and reused.
+- Knowledge gaps are recorded so the team can add what visitors are looking for.
+
+**November 15, 2026: Analytics & Directory Opportunities**
+
+- Introduced analytics on Carnival demand: trends, busiest times, categories, most-asked and not-yet-answered questions, and feedback.
+- Introduced directory opportunities: which suppliers, workshops, mas bands, designers and services people ask for, by city, and where no listing exists yet.
+- Improved directory matching so listings appear only when they match what a visitor actually asked, in the city they named.
+
+**November 15, 2026: Neutral & Independent Principle**
+
+- Established MasCamp.AI as a neutral, independent source of Carnival knowledge: fair to every band, event and Carnival, with no product promotion and no access to orders, payments or customer accounts.
+- Published an internal training guide for the MasCamp team covering knowledge review, Carnival fundamentals and the neutral-and-independent principle.
 
 ---
 
@@ -106,9 +131,9 @@ Together, these initiatives support MasCamp's long-term vision of building inter
 
 ## Development Status
 
-**Status: Active Development**
+**Status: Live · Active Development**
 
-MasCamp.AI™ is an evolving initiative with continued development focused on organizational intelligence, public Carnival knowledge, and connected digital experiences.
+MasCamp.AI™ public Carnival Q&A is live at [mascamp.ai](https://mascamp.ai/). Development continues on public Carnival knowledge, directory discovery, and organizational intelligence.
 
 The initiative will continue to expand as new capabilities, resources, and services are introduced.
 
